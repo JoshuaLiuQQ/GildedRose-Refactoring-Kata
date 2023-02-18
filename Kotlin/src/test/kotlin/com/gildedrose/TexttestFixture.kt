@@ -17,7 +17,7 @@ fun main(args: Array<String>) {
 
     val app = GildedRose(items)
 
-    val days = 10
+    val days = 11
 
     for (i in 0 until days) {
         println("-------- day $i --------")
